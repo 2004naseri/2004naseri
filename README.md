@@ -59,24 +59,32 @@
  🔹 1) BazarKar – Freelancing Marketplace
 > A full-featured freelance marketplace connecting clients and freelancers. Includes project posting, proposal submission, user dashboards, authentication, real-time communication, and admin management system. Designed with scalable architecture and modern UI/UX.
 **Tech Stack:** React, Node.js, PostgreSQL  
-🔗 Live Demo  
-🔗 Repository  
+
 
 ---
 
 🔹 2) OCOC NGO Website
 > A modern and responsive NGO website built to showcase organizational activities, projects, mission, and impact. Includes dynamic content management, announcements, contact system, and structured information display for transparency and engagement. 
-**Tech Stack:** MERN Stack  
-🔗 Live Demo  https://www.ococ.org.af/
-🔗 Repository https://github.com/2004naseri/ococ 
+**Tech Stack:** MERN Stack
+ 
+🔗 Live Demo 
+https://www.ococ.org.af/
+
+🔗 Repository
+https://github.com/2004naseri/ococ 
 
 ---
 
  🔹 3) Radina Beauty Clinic 
 > A responsive clinic website designed to present medical and cosmetic services, treatment details, before/after galleries, appointment system, and contact integration with a modern and elegant design.
 **Tech Stack:** React / Python / Django
-🔗 Live Demo   https://clinic-rdina-project.vercel.app/
-🔗 Repository  https://github.com/2004naseri/Clinic-Rdina-project
+
+🔗 Live Demo
+>  https://clinic-rdina-project.vercel.app/
+
+🔗 Repository
+
+>  https://github.com/2004naseri/Clinic-Rdina-project
 
 🔹 4) Islamic Web Application (Current Project)
 
@@ -87,7 +95,7 @@ A comprehensive Islamic web platform featuring books, videos, articles, Fiqh res
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2004naseri&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2004naseriE&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2004naseri&theme=tokyonight" />
 </p>
 
 ---
@@ -95,7 +103,7 @@ A comprehensive Islamic web platform featuring books, videos, articles, Fiqh res
 
 ## 🌍 Connect With Me
 
-<p align="left">
+<p align="left" padding="5px">
   <a href="https://linkedin.com/in/[YOUR_LINK](https://www.linkedin.com/in/ikramudin-naseri-2a7633306?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
