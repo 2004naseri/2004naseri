@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Software Engineer | Network Engineer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node+%7C+PostgreSQL;Building+Scalable+Web+Applications;Clean+Code+Advocate&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node+%7C+Django%7C+PostgreSQL;Building+Scalable+Web+Applications;Clean+Code+Advocate&center=true&width=600&height=45">
 </p>
 
 ---
