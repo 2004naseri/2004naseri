@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ikramudin Naseri</h1>
+<h1 align="center">Hi  I'm Ikramudin Naseri</h1>
 <h3 align="center">Full Stack Developer | Software Engineer | Network Engineer </h3>
 
 <p align="center">
